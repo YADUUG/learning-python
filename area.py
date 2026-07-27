@@ -5,6 +5,8 @@ class areaofrec:
     def area(self):
         print("the area of rectangle is:",self.l*self.b)
 obj1=areaofrec(40,50)
-obj2=areaofrec(7,8)
+obj2=areaofrec(4,3)
+obj3=areaofrec(7,8)
 obj1.area()
 obj2.area()
+obj3.area()
