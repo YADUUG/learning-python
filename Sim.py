@@ -8,4 +8,5 @@ def func(x):
         return True
     print(func(0))
     return False
-print(func(0))
+    
+print(func(10))
