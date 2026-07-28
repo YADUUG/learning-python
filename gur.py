@@ -27,11 +27,11 @@
 # print("patient1 disease:",patient1.disease)
 # print("patient1 location:",patient1.location)
 
-def func(x):
-    if x ==0:
-        return True
+# def func(x):
+#     if x ==0:
+#         return True
 
-    print(func(0))
-    return False
+#     print(func(0))
+#     return False
 
-print(func(10))
+# print(func(10))
